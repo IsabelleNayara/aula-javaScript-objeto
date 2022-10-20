@@ -18,3 +18,5 @@ console.log(cliente);
 cliente.fone = "81994236574"
 
 console.log(cliente);
+
+
